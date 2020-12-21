@@ -1,4 +1,4 @@
-# vue-todo
+# vue-notes
 
 ## Project setup
 ```
